@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="parking_servisModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cene">
+    <Key>
+      <PropertyRef Name="tip" />
+    </Key>
+    <Property Name="cena" Type="int" Nullable="false" />
+    <Property Name="tip" Type="char" MaxLength="1" Nullable="false" />
+  </EntityType>
+  <EntityType Name="korisnik">
+    <Key>
+      <PropertyRef Name="korisnickoIme" />
+    </Key>
+    <Property Name="ime" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="prezime" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="brTelefona" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="sifra" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="korisnickoIme" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="tip" Type="char" MaxLength="1" Nullable="false" />
+  </EntityType>
+  <EntityType Name="parkingmesto">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="oznaka" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="trenutnoStanje" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="x" Type="int" Nullable="false" />
+    <Property Name="y" Type="int" Nullable="false" />
+    <Property Name="vremeDolaska" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Orijentacija" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="parking_servisModelStoreContainer">
+    <EntitySet Name="cene" EntityType="Self.cene" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="korisnik" EntityType="Self.korisnik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="parkingmesto" EntityType="Self.parkingmesto" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

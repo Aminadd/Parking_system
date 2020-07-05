@@ -1,0 +1,111 @@
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\bin\Debug\Parking_System.exe.config
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.Form1.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.Properties.Resources.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.csproj.GenerateResource.Cache
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.pdb
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.csprojResolveAssemblyReference.cache
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.EmployeeUC.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.Admin.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.PricesUC.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\bin\Debug\EntityFramework.dll
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\bin\Debug\EntityFramework.xml
+c:\users\dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.ShowUC.resources
+C:\Users\Dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.AddUC.resources
+C:\Users\Dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.DeleteUC.resources
+C:\Users\Dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.User.resources
+C:\Users\Dzeki\documents\visual studio 2015\Projects\Parking_System\Parking_System\obj\Debug\Parking_System.TakeoverUC.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\Parking_System.exe.config
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.exe
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.pdb
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.dll
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.xml
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.csprojResolveAssemblyReference.cache
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.AddUC.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.DeleteUC.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.EmployeeUC.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Admin.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Form1.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.PricesUC.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Properties.Resources.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.ShowUC.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.User.resources
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\Parking_System.exe.config
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.exe
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.pdb
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.AddUC.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.DeleteUC.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.EmployeeUC.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Admin.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Form1.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.PricesUC.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Properties.Resources.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.ShowUC.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.User.resources
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.dll
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.xml
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.csprojResolveAssemblyReference.cache
+C:\Users\Ajla\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Forms.takeover.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\Parking_System.exe.config
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.exe
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.pdb
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\EntityFramework.dll
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\EntityFramework.xml
+C:\Users\Dzeki\Music\Parking_System\Parking_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.csprojResolveAssemblyReference.cache
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.Forms.takeover.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.AddUC.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.DeleteUC.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.EmployeeUC.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.Admin.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.Form1.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.PricesUC.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.Properties.Resources.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.ShowUC.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.User.resources
+C:\Users\Dzeki\Music\Parking_System\Parking_System\obj\Debug\Parking_System.csproj.GenerateResource.Cache
+C:\Users\Dzeki\Desktop\Parking_System\Parking_System\obj\Debug\Parking_System.Forms.takeover.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\Parking_System.exe.config
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.exe
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.pdb
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\Parking_System.exe
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\Parking_System.pdb
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\EntityFramework.dll
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\EntityFramework.xml
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.csprojResolveAssemblyReference.cache
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.Forms.takeover.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.AddUC.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.DeleteUC.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.EmployeeUC.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.Admin.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.Form1.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.PricesUC.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.Properties.Resources.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.ShowUC.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.User.resources
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.csproj.GenerateResource.Cache
+C:\Users\Dzeki\Desktop\Parking_Systemm\Parking_System\obj\Debug\Parking_System.ChangePassword.resources

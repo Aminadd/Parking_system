@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="parking_servisModelStoreContainer" CdmEntityContainer="parking_servisEntities1">
+    <EntitySetMapping Name="cenes">
+      <EntityTypeMapping TypeName="parking_servisModel.cene">
+        <MappingFragment StoreEntitySet="cene">
+          <ScalarProperty Name="cena" ColumnName="cena" />
+          <ScalarProperty Name="tip" ColumnName="tip" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="korisniks">
+      <EntityTypeMapping TypeName="parking_servisModel.korisnik">
+        <MappingFragment StoreEntitySet="korisnik">
+          <ScalarProperty Name="ime" ColumnName="ime" />
+          <ScalarProperty Name="prezime" ColumnName="prezime" />
+          <ScalarProperty Name="brTelefona" ColumnName="brTelefona" />
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="korisnickoIme" ColumnName="korisnickoIme" />
+          <ScalarProperty Name="tip" ColumnName="tip" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="parkingmestoes">
+      <EntityTypeMapping TypeName="parking_servisModel.parkingmesto">
+        <MappingFragment StoreEntitySet="parkingmesto">
+          <ScalarProperty Name="oznaka" ColumnName="oznaka" />
+          <ScalarProperty Name="trenutnoStanje" ColumnName="trenutnoStanje" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="x" ColumnName="x" />
+          <ScalarProperty Name="y" ColumnName="y" />
+          <ScalarProperty Name="vremeDolaska" ColumnName="vremeDolaska" />
+          <ScalarProperty Name="Orijentacija" ColumnName="Orijentacija" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
